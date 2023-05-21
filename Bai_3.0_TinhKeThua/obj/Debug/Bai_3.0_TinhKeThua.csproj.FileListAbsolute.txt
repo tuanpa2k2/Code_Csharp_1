@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\bin\Debug\Bai_3.0_TinhKeThua.exe.config
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\bin\Debug\Bai_3.0_TinhKeThua.exe
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\bin\Debug\Bai_3.0_TinhKeThua.pdb
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\obj\Debug\Bai_3.0_TinhKeThua.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\obj\Debug\Bai_3.0_TinhKeThua.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\obj\Debug\Bai_3.0_TinhKeThua.exe
+E:\C#\anhtuan_ph18296\Bai_3.0_TinhKeThua\obj\Debug\Bai_3.0_TinhKeThua.pdb

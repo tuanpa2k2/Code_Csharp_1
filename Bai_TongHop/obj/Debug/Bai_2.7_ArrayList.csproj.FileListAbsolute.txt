@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_TongHop\bin\Debug\Bai_TongHop.exe.config
+E:\C#\anhtuan_ph18296\Bai_TongHop\bin\Debug\Bai_TongHop.exe
+E:\C#\anhtuan_ph18296\Bai_TongHop\bin\Debug\Bai_TongHop.pdb
+E:\C#\anhtuan_ph18296\Bai_TongHop\obj\Debug\Bai_2.7_ArrayList.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Bai_TongHop\obj\Debug\Bai_2.7_ArrayList.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_TongHop\obj\Debug\Bai_TongHop.exe
+E:\C#\anhtuan_ph18296\Bai_TongHop\obj\Debug\Bai_TongHop.pdb

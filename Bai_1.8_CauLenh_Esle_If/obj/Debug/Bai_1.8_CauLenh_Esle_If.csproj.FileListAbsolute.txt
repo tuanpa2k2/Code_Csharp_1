@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\bin\Debug\Bai_1.8_CauLenh_Esle_If.exe.config
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\bin\Debug\Bai_1.8_CauLenh_Esle_If.exe
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\bin\Debug\Bai_1.8_CauLenh_Esle_If.pdb
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\obj\Debug\Bai_1.8_CauLenh_Esle_If.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\obj\Debug\Bai_1.8_CauLenh_Esle_If.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\obj\Debug\Bai_1.8_CauLenh_Esle_If.exe
+E:\C#\anhtuan_ph18296\Bai_1.8_CauLenh_Esle_If\obj\Debug\Bai_1.8_CauLenh_Esle_If.pdb

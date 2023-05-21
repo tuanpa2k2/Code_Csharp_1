@@ -1,0 +1,6 @@
+E:\C#\anhtuan_ph18296\bai2_KhaiBaoBien\bin\Debug\bai2_KhaiBaoBien.exe.config
+E:\C#\anhtuan_ph18296\bai2_KhaiBaoBien\bin\Debug\bai2_KhaiBaoBien.exe
+E:\C#\anhtuan_ph18296\bai2_KhaiBaoBien\bin\Debug\bai2_KhaiBaoBien.pdb
+E:\C#\anhtuan_ph18296\bai2_KhaiBaoBien\obj\Debug\bai1.2.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\bai2_KhaiBaoBien\obj\Debug\bai2_KhaiBaoBien.exe
+E:\C#\anhtuan_ph18296\bai2_KhaiBaoBien\obj\Debug\bai2_KhaiBaoBien.pdb

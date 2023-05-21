@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\bin\Debug\Bai_2.9_PhuongThuc_Method.exe.config
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\bin\Debug\Bai_2.9_PhuongThuc_Method.exe
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\bin\Debug\Bai_2.9_PhuongThuc_Method.pdb
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\obj\Debug\Bai_2.9_PhuongThuc_Method.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\obj\Debug\Bai_2.9_PhuongThuc_Method.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\obj\Debug\Bai_2.9_PhuongThuc_Method.exe
+E:\C#\anhtuan_ph18296\Bai_2.9_PhuongThuc_Method\obj\Debug\Bai_2.9_PhuongThuc_Method.pdb

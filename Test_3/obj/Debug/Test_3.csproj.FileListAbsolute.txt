@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Test_3\bin\Debug\Test_3.exe.config
+E:\C#\anhtuan_ph18296\Test_3\bin\Debug\Test_3.exe
+E:\C#\anhtuan_ph18296\Test_3\bin\Debug\Test_3.pdb
+E:\C#\anhtuan_ph18296\Test_3\obj\Debug\Test_3.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Test_3\obj\Debug\Test_3.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Test_3\obj\Debug\Test_3.exe
+E:\C#\anhtuan_ph18296\Test_3\obj\Debug\Test_3.pdb

@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\bai1.6_If_else\bin\Debug\bai1.6_If_else.exe.config
+E:\C#\anhtuan_ph18296\bai1.6_If_else\bin\Debug\bai1.6_If_else.exe
+E:\C#\anhtuan_ph18296\bai1.6_If_else\bin\Debug\bai1.6_If_else.pdb
+E:\C#\anhtuan_ph18296\bai1.6_If_else\obj\Debug\bai1.6_If_else.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\bai1.6_If_else\obj\Debug\bai1.6_If_else.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\bai1.6_If_else\obj\Debug\bai1.6_If_else.exe
+E:\C#\anhtuan_ph18296\bai1.6_If_else\obj\Debug\bai1.6_If_else.pdb

@@ -1,0 +1,14 @@
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\bin\Debug\BAI_TAP_MAU_OPP_CRUD.exe.config
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\bin\Debug\BAI_TAP_MAU_OPP_CRUD.exe
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\bin\Debug\BAI_TAP_MAU_OPP_CRUD.pdb
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.exe
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.pdb
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\bin\Debug\BAI_TAP_MAU_OPP_CRUD.exe.config
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\bin\Debug\BAI_TAP_MAU_OPP_CRUD.exe
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\bin\Debug\BAI_TAP_MAU_OPP_CRUD.pdb
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.csproj.AssemblyReference.cache
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.csproj.CoreCompileInputs.cache
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.exe
+E:\C#_1\anhtuan_ph18296\BAI_TAP_MAU_OPP_CRUD\obj\Debug\BAI_TAP_MAU_OPP_CRUD.pdb

@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\bin\Debug\Bai_3.1_LINQ_COBAN.exe.config
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\bin\Debug\Bai_3.1_LINQ_COBAN.exe
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\bin\Debug\Bai_3.1_LINQ_COBAN.pdb
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\obj\Debug\Bai_3.1_LINQ_COBAN.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\obj\Debug\Bai_3.1_LINQ_COBAN.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\obj\Debug\Bai_3.1_LINQ_COBAN.exe
+E:\C#\anhtuan_ph18296\Bai_3.1_LINQ_COBAN\obj\Debug\Bai_3.1_LINQ_COBAN.pdb

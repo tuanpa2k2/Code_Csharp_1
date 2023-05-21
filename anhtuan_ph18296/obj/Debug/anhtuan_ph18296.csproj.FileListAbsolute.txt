@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\bin\Debug\anhtuan_ph18296.exe.config
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\bin\Debug\anhtuan_ph18296.exe
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\bin\Debug\anhtuan_ph18296.pdb
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\obj\Debug\anhtuan_ph18296.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\obj\Debug\anhtuan_ph18296.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\obj\Debug\anhtuan_ph18296.exe
+E:\C#\anhtuan_ph18296\anhtuan_ph18296\obj\Debug\anhtuan_ph18296.pdb

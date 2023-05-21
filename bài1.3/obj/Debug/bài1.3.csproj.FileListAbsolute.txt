@@ -1,0 +1,6 @@
+E:\C#\anhtuan_ph18296\bài1.3\bin\Debug\bài1.3.exe.config
+E:\C#\anhtuan_ph18296\bài1.3\bin\Debug\bài1.3.exe
+E:\C#\anhtuan_ph18296\bài1.3\bin\Debug\bài1.3.pdb
+E:\C#\anhtuan_ph18296\bài1.3\obj\Debug\bài1.3.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\bài1.3\obj\Debug\bài1.3.exe
+E:\C#\anhtuan_ph18296\bài1.3\obj\Debug\bài1.3.pdb

@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_2.8_List\bin\Debug\Bai_2.8_List.exe.config
+E:\C#\anhtuan_ph18296\Bai_2.8_List\bin\Debug\Bai_2.8_List.exe
+E:\C#\anhtuan_ph18296\Bai_2.8_List\bin\Debug\Bai_2.8_List.pdb
+E:\C#\anhtuan_ph18296\Bai_2.8_List\obj\Debug\Bai_2.8_List.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Bai_2.8_List\obj\Debug\Bai_2.8_List.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_2.8_List\obj\Debug\Bai_2.8_List.exe
+E:\C#\anhtuan_ph18296\Bai_2.8_List\obj\Debug\Bai_2.8_List.pdb

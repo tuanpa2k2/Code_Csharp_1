@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\kiemTra_7+8\bin\Debug\kiemTra_7+8.exe.config
+E:\C#\anhtuan_ph18296\kiemTra_7+8\bin\Debug\kiemTra_7+8.exe
+E:\C#\anhtuan_ph18296\kiemTra_7+8\bin\Debug\kiemTra_7+8.pdb
+E:\C#\anhtuan_ph18296\kiemTra_7+8\obj\Debug\kiemTra_7+8.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\kiemTra_7+8\obj\Debug\kiemTra_7+8.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\kiemTra_7+8\obj\Debug\kiemTra_7+8.exe
+E:\C#\anhtuan_ph18296\kiemTra_7+8\obj\Debug\kiemTra_7+8.pdb

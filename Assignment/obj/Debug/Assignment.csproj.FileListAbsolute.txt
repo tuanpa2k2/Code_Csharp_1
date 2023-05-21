@@ -1,0 +1,14 @@
+E:\C#\anhtuan_ph18296\Assignment\bin\Debug\Assignment.exe.config
+E:\C#\anhtuan_ph18296\Assignment\bin\Debug\Assignment.exe
+E:\C#\anhtuan_ph18296\Assignment\bin\Debug\Assignment.pdb
+E:\C#\anhtuan_ph18296\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Assignment\obj\Debug\Assignment.exe
+E:\C#\anhtuan_ph18296\Assignment\obj\Debug\Assignment.pdb
+E:\C#_1\anhtuan_ph18296\Assignment\bin\Debug\Assignment.exe.config
+E:\C#_1\anhtuan_ph18296\Assignment\bin\Debug\Assignment.exe
+E:\C#_1\anhtuan_ph18296\Assignment\bin\Debug\Assignment.pdb
+E:\C#_1\anhtuan_ph18296\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+E:\C#_1\anhtuan_ph18296\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\C#_1\anhtuan_ph18296\Assignment\obj\Debug\Assignment.exe
+E:\C#_1\anhtuan_ph18296\Assignment\obj\Debug\Assignment.pdb

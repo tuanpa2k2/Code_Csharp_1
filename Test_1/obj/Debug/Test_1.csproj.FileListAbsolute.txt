@@ -1,0 +1,14 @@
+E:\C#\anhtuan_ph18296\Test_1\bin\Debug\Test_1.exe.config
+E:\C#\anhtuan_ph18296\Test_1\bin\Debug\Test_1.exe
+E:\C#\anhtuan_ph18296\Test_1\bin\Debug\Test_1.pdb
+E:\C#\anhtuan_ph18296\Test_1\obj\Debug\Test_1.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Test_1\obj\Debug\Test_1.exe
+E:\C#\anhtuan_ph18296\Test_1\obj\Debug\Test_1.pdb
+E:\C#_1\anhtuan_ph18296\Test_1\bin\Debug\Test_1.exe.config
+E:\C#_1\anhtuan_ph18296\Test_1\bin\Debug\Test_1.exe
+E:\C#_1\anhtuan_ph18296\Test_1\bin\Debug\Test_1.pdb
+E:\C#_1\anhtuan_ph18296\Test_1\obj\Debug\Test_1.csprojAssemblyReference.cache
+E:\C#_1\anhtuan_ph18296\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+E:\C#_1\anhtuan_ph18296\Test_1\obj\Debug\Test_1.exe
+E:\C#_1\anhtuan_ph18296\Test_1\obj\Debug\Test_1.pdb

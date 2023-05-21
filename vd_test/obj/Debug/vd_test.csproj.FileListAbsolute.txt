@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\vd_test\bin\Debug\vd_test.exe.config
+E:\C#\anhtuan_ph18296\vd_test\bin\Debug\vd_test.exe
+E:\C#\anhtuan_ph18296\vd_test\bin\Debug\vd_test.pdb
+E:\C#\anhtuan_ph18296\vd_test\obj\Debug\vd_test.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\vd_test\obj\Debug\vd_test.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\vd_test\obj\Debug\vd_test.exe
+E:\C#\anhtuan_ph18296\vd_test\obj\Debug\vd_test.pdb

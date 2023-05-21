@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\bin\Debug\Bai_2.4_VongLap_For.exe.config
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\bin\Debug\Bai_2.4_VongLap_For.exe
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\bin\Debug\Bai_2.4_VongLap_For.pdb
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\obj\Debug\Bai_2.4_VongLap_For.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\obj\Debug\Bai_2.4_VongLap_For.exe
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\obj\Debug\Bai_2.4_VongLap_For.pdb
+E:\C#\anhtuan_ph18296\Bai_2.4_VongLap_For\obj\Debug\Bai_2.4_VongLap_For.csprojAssemblyReference.cache

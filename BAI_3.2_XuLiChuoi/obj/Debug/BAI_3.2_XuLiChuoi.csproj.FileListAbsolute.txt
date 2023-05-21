@@ -1,0 +1,7 @@
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\bin\Debug\BAI_3.2_XuLiChuoi.exe.config
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\bin\Debug\BAI_3.2_XuLiChuoi.exe
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\bin\Debug\BAI_3.2_XuLiChuoi.pdb
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\obj\Debug\BAI_3.2_XuLiChuoi.csprojAssemblyReference.cache
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\obj\Debug\BAI_3.2_XuLiChuoi.csproj.CoreCompileInputs.cache
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\obj\Debug\BAI_3.2_XuLiChuoi.exe
+E:\C#_1\anhtuan_ph18296\BAI_3.2_XuLiChuoi\obj\Debug\BAI_3.2_XuLiChuoi.pdb

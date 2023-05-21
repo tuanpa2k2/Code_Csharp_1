@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\bai1.4\obj\Debug\bai1.4.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\bai1.4\obj\Debug\bai1.4.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\bai1.4\bin\Debug\bai1.4.exe.config
+E:\C#\anhtuan_ph18296\bai1.4\bin\Debug\bai1.4.exe
+E:\C#\anhtuan_ph18296\bai1.4\bin\Debug\bai1.4.pdb
+E:\C#\anhtuan_ph18296\bai1.4\obj\Debug\bai1.4.exe
+E:\C#\anhtuan_ph18296\bai1.4\obj\Debug\bai1.4.pdb

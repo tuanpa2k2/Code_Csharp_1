@@ -1,0 +1,7 @@
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\bin\Debug\BAI_TAP_MAU_OOP.exe.config
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\bin\Debug\BAI_TAP_MAU_OOP.exe
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\bin\Debug\BAI_TAP_MAU_OOP.pdb
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\obj\Debug\BAI_TAP_MAU_OOP.csprojAssemblyReference.cache
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\obj\Debug\BAI_TAP_MAU_OOP.csproj.CoreCompileInputs.cache
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\obj\Debug\BAI_TAP_MAU_OOP.exe
+E:\C#\anhtuan_ph18296\BAI_TAP_MAU_OOP\obj\Debug\BAI_TAP_MAU_OOP.pdb
